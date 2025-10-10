@@ -1,0 +1,12 @@
+export { default as aquatoria } from './aquatoria.jpg';
+export { default as beSweet } from './beSweet.jpg';
+export { default as bimatex } from './bimatex.jpg';
+export { default as box } from './box.jpg';
+export { default as entourage } from './entourage.jpg';
+export { default as epilBar } from './epilBar.jpg';
+export { default as gastHaus } from './gastHaus.jpg';
+export { default as joma } from './joma.png';
+export { default as poiana } from './poiana.jpg';
+export { default as selik } from './selik.jpg';
+export { default as svitolart } from './svitolart.png';
+export { default as veranda } from './veranda.jpg';
